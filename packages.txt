@@ -1,0 +1,3 @@
+# Бу файл Streamlit Cloud учун эмас, local учун
+# Streamlit Cloud учун packages.txt ишлатилмайди
+# Шуни ўчиринг ёки бўш қолдиринг
